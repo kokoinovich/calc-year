@@ -1,0 +1,21 @@
+* {
+    font-size: 20px;
+    background-color: rgba(104, 104, 104, 0.486);
+    margin-top: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+input {
+    width: 70px;
+    height: 20px;
+    border-width: 1px;
+    border-color: rgb(139, 189, 255)
+}
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+button {
+    border-width: 1px;
+    border-color: rgb(139, 189, 255)
+}
